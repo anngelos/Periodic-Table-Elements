@@ -1,0 +1,27 @@
+.MuiCard-root {
+    text-align: center;
+    width: 700px;
+    height: 350px;
+    background-color: #e9e9e9;
+    box-shadow: 5px 5px 4px gray;;
+    margin: auto;
+    margin-top: 60px;
+}
+
+h1 {
+    background-color: rgb(14, 12, 110);
+    color: white;
+    margin-bottom: 30px;
+    padding: 7px;
+}
+
+#outlined-basic {
+    width: 500px;
+}
+
+.MuiButton-contained {
+    font-family: Oswald;
+    margin-top: 100px;
+    width: 200px;
+    background-color: rgb(14, 12, 110);
+}
